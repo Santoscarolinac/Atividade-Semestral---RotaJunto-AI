@@ -1,0 +1,5 @@
+{
+  "name": "RotaJunto AI",
+  "description": "Aplicativo inteligente de caronas compartilhadas onde o custo é dividido igualmente entre os passageiros. Utiliza IA para encontrar e sugerir rotas otimizadas.",
+  "requestFramePermissions": []
+}
